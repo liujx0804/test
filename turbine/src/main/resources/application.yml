@@ -17,3 +17,4 @@ eureka:
       defaultZone: http://localhost:7070/eureka/
       
 #进入hystrixdashboard页面，输入：localhost:7081/turbine.stream
+##
